@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "b6f39363-b1be-94ad-2b58-3a7e186f8ef7",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "win5",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 2,
+    "quality": 0,
+    "maxResolution": 1024,
+    "resourceFilePath": "/Users/liangweihua/Downloads/Group (1).png"
+  }
+]

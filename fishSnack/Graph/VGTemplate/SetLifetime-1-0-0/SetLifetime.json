@@ -1,18 +1,20 @@
 {
-	"displayName": "Set Lifetime",
+	"name": "Set Lifetime",
 	"function": "SetLifetime",
-	"templateGuid": "ab7daf22-7c1d-c1d7-bbce-dfa009d3b8a9",
+	"id": "ab7daf22-7c1d-c1d7-bbce-dfa009d3b8a9",
 	"NodeType": "VFXGRAPHBLOCK",
 	"inputs": [
 		{
-			"displayName": "Lifetime",
 			"name": "Lifetime",
+			"shaderName": "Lifetime",
 			"description": "The amount of time in seconds that the particles stay alive",
 			"type": "Float",
 			"default": 1.0001,
 			"allowedTypes": [],
 			"nameKey": "vfxgraph_set_lifetime_input_lifetime",
-			"descriptionKey": "vfxgraph_set_lifetime_input_lifetime_description"
+			"descriptionKey": "vfxgraph_set_lifetime_input_lifetime_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
 		}
 	],
 	"outputs": [],
@@ -22,7 +24,9 @@
 	"compatibleContexts": [
 		"Init",
 		"Update",
-		"Output"
+		"Output",
+		"MeshOutput",
+		"PhysicsInit"
 	],
 	"attributes": [
 		"lifetime"

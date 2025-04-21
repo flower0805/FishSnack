@@ -1,16 +1,16 @@
 {
-	"displayName": "Capacity",
+	"name": "Capacity",
 	"function": "Capacity",
-	"templateGuid": "60cdbd19-93e4-f4d1-d6a0-e181b0fe35bc",
+	"id": "60cdbd19-93e4-f4d1-d6a0-e181b0fe35bc",
 	"NodeType": "VFXGRAPHBLOCK",
 	"inputs": [
 		{
+			"shaderName": "Capacity",
 			"name": "Capacity",
-			"displayName": "Capacity",
 			"description": "The fixed amount of elements in the simulation",
 			"type": "Uint",
 			"default": 2000,
-			"hidePort": true,
+			"visible": false,
 			"allowedTypes": [],
 			"range": [
 				[
@@ -21,7 +21,8 @@
 			],
 			"nameKey": "vfxgraph_capacity_input_capacity",
 			"descriptionKey": "vfxgraph_capacity_input_capacity_description",
-			"displayTypeKey": "graph_type_number"
+			"displayTypeKey": "graph_type_uint",
+			"displayType": "Uint"
 		}
 	],
 	"outputs": [],

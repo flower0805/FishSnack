@@ -1,17 +1,20 @@
 {
-	"displayName": "Set Main Texture",
+	"name": "Set Main Texture",
 	"function": "SetMainTexture",
-	"templateGuid": "ff0c911a-1874-0d2a-0733-eaa02cf62273",
+	"id": "ff0c911a-1874-0d2a-0733-eaa02cf62273",
 	"NodeType": "VFXGRAPHBLOCK",
 	"inputs": [
 		{
-			"displayName": "Main Texture",
-			"name": "MainTexture",
+			"name": "Main Texture",
+			"shaderName": "MainTexture",
 			"description": "The texture that displays on each particle",
-			"type": "Texture2D",
+			"type": "Texture",
+			"providerType": "Texture2DProvider",
 			"allowedTypes": [],
 			"nameKey": "vfxgraph_set_main_texture_input_maintexture",
-			"descriptionKey": "vfxgraph_set_main_texture_input_maintexture_description"
+			"descriptionKey": "vfxgraph_set_main_texture_input_maintexture_description",
+			"displayType": "Texture2D",
+			"displayTypeKey": "graph_type_texture2d"
 		}
 	],
 	"outputs": [],
@@ -35,7 +38,7 @@
 			"type": "vec4"
 		}
 	],
-	"methodBody": "outputColor.rgba = texture(MainTexture, uv).rgba * color.rgba;",
+	"methodBody": "outputColor.rgba = texture(MainTexture, uv).rgba * color;",
 	"outputType": "Fragment",
 	"TSPATH": "",
 	"productTypes": [
