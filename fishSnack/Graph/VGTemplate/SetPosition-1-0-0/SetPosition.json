@@ -1,0 +1,43 @@
+{
+	"name": "Set Position",
+	"function": "SetPosition",
+	"id": "c7ccb491-dba1-9afb-956e-a6d366df6bb8",
+	"NodeType": "VFXGRAPHBLOCK",
+	"inputs": [
+		{
+			"name": "Position",
+			"shaderName": "Position",
+			"description": "The origin position of the particles",
+			"type": "Vec3",
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_position_input_position",
+			"descriptionKey": "vfxgraph_set_position_input_position_description",
+			"displayType": "Vec3",
+			"displayTypeKey": "graph_type_vec3"
+		}
+	],
+	"outputs": [],
+	"category": "Attribute Set",
+	"description": "Sets the origin position of the particles",
+	"version": "1.0.0",
+	"compatibleContexts": [
+		"Init",
+		"PhysicsInit",
+		"Update",
+		"Output",
+		"MeshOutput"
+	],
+	"attributes": [
+		"position"
+	],
+	"methodBody": "position.xyz = Position.xyz;",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "vfxgraph_set_position_name",
+	"categoryKey": "vfxgraph_category_attributeset",
+	"descriptionKey": "vfxgraph_set_position_description"
+}

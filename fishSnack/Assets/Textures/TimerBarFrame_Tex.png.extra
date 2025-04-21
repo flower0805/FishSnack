@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "c5f60280-9671-ebc9-5401-4196366ae324",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "TimerBarFrame_Tex",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "/Users/sherlock1/Desktop/火焰与蛇/SnowballBlitz/Assets/SnowballBlitzAssets/Textures/TimerBarFrame_Tex.png"
+  }
+]

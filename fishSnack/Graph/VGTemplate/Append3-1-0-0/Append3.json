@@ -1,0 +1,80 @@
+{
+	"id": "4cc4e307-074a-cc75-c218-7e7eca858c8d",
+	"name": "Append3",
+	"category": "Vector Operations",
+	"function": "Append3",
+	"NodeType": "VFXGRAPHOPERATOR",
+	"inputs": [
+		{
+			"name": "X",
+			"shaderName": "A",
+			"type": "Float",
+			"default": 0.5,
+			"allowedTypes": "Float",
+			"isShowColor": false,
+			"targetType": "output",
+			"description": "The first input value",
+			"nameKey": "vfxgraph_append3_input_x",
+			"descriptionKey": "vfxgraph_append3_input_x_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		},
+		{
+			"name": "Y",
+			"shaderName": "B",
+			"type": "Float",
+			"default": 0.5,
+			"allowedTypes": "Float",
+			"isShowColor": false,
+			"targetType": "output",
+			"description": "The second input value",
+			"nameKey": "vfxgraph_append3_input_y",
+			"descriptionKey": "vfxgraph_append3_input_y_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		},
+		{
+			"name": "Z",
+			"shaderName": "C",
+			"type": "Float",
+			"default": 0.5,
+			"allowedTypes": "Float",
+			"isShowColor": false,
+			"targetType": "output",
+			"description": "The third input value",
+			"nameKey": "vfxgraph_append3_input_z",
+			"descriptionKey": "vfxgraph_append3_input_z_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"shaderName": "AppendOutput",
+			"type": "Vector3f",
+			"description": "The combined values",
+			"nameKey": "vfxgraph_append3_output_result",
+			"descriptionKey": "vfxgraph_append3_output_result_description",
+			"displayType": "Vec3",
+			"displayTypeKey": "graph_type_vec3"
+		}
+	],
+	"uniforms": [],
+	"parameters": [],
+	"shaderCode": "Append3.glsl",
+	"invokeString": "append3(%A%, %B%, %C%);",
+	"outputPortTypeUpdate": "Default",
+	"externalVariables": [],
+	"description": "Combines three floating numbers",
+	"version": "1.0.0",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "vfxgraph_append3_name",
+	"categoryKey": "vfxgraph_category_vectoroperations",
+	"descriptionKey": "vfxgraph_append3_description"
+}

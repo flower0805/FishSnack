@@ -1,0 +1,68 @@
+{
+	"name": "Read Data From Buffer",
+	"id": "0A4FFCAB-A09E-CEF0-CE3C-8C8072DF1F6F",
+	"inputs": [
+		{
+			"name": "Target Buffer",
+			"description": "The buffer to retrieve data from",
+			"type": "VFXBuffer",
+			"visible": false,
+			"displayType": "Data Buffer",
+			"nameKey": "graph_read_data_from_buffer_input_targetbuffer",
+			"descriptionKey": "graph_read_data_from_buffer_input_targetbuffer_description",
+			"displayTypeKey": "graph_type_databuffer"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Data 0",
+			"description": "The data retrieved from the buffer",
+			"type": "Int",
+			"displayType": "Number",
+			"nameKey": "graph_read_data_from_buffer_output_data0",
+			"descriptionKey": "graph_read_data_from_buffer_output_data0_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Data 1",
+			"description": "The data retrieved from the buffer",
+			"type": "Int",
+			"displayType": "Number",
+			"nameKey": "graph_read_data_from_buffer_output_data1",
+			"descriptionKey": "graph_read_data_from_buffer_output_data1_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Data 2",
+			"description": "The data retrieved from the buffer",
+			"type": "Int",
+			"displayType": "Number",
+			"nameKey": "graph_read_data_from_buffer_output_data2",
+			"descriptionKey": "graph_read_data_from_buffer_output_data2_description",
+			"displayTypeKey": "graph_type_number"
+		},
+		{
+			"name": "Data 3",
+			"description": "The data retrieved from the buffer",
+			"type": "Int",
+			"displayType": "Number",
+			"nameKey": "graph_read_data_from_buffer_output_data3",
+			"descriptionKey": "graph_read_data_from_buffer_output_data3_description",
+			"displayTypeKey": "graph_type_number"
+		}
+	],
+	"category": "Utility",
+	"version": "1.0.0",
+	"description": "Retrieves data from a specified buffer in an array format",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"SDKVersion": "17.6.0",
+	"onlineWebsite": "graph_vfx_graph_info_website",
+	"js": "CGReadDataFromBuffer.js",
+	"nameKey": "graph_read_data_from_buffer_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_read_data_from_buffer_description"
+}

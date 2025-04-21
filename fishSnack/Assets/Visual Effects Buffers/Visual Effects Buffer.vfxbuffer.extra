@@ -1,0 +1,17 @@
+[
+  {
+    "guid": {
+      "a": "c27a0f42-28bf-9dba-ac61-834fcc796e97",
+      "b": ""
+    },
+    "extraType": "ResItemVFXBuffer",
+    "name": "Visual Effects Buffer",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "VFXBuffer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "C:\\Users\\kenny\\AppData\\Local\\Effect House\\Resources\\BuiltinResource\\VFXGraph\\BuiltinAsset\\ParticleCount.vfxbuffer"
+  }
+]

@@ -1,0 +1,87 @@
+{
+	"name": "Set Color From Texture",
+	"function": "SetColorFromTexture",
+	"id": "acc16579-0fb7-14c7-3da8-eb5423fa2a36",
+	"NodeType": "VFXGRAPHBLOCK",
+	"options": [
+		{
+			"type": "Set Mode",
+			"values": [
+				"Random",
+				"Custom"
+			],
+			"typeKey": "vfxgraph_set_color_from_texture_option_type_setmode",
+			"valuesKey": [
+				"vfxgraph_set_color_from_texture_option_value_random",
+				"vfxgraph_set_color_from_texture_option_value_custom"
+			]
+		}
+	],
+	"optionalInputs": [
+		{
+			"optionType": "Set Mode",
+			"optionValue": "Custom",
+			"input": {
+				"name": "UV",
+				"shaderName": "uv",
+				"description": "The coordinate of the texture to sample from",
+				"type": "Vector2f",
+				"allowedTypes": [],
+				"nameKey": "vfxgraph_set_color_from_texture_optional_input_uv",
+				"descriptionKey": "vfxgraph_set_color_from_texture_optional_input_uv_description",
+				"displayType": "Vec2",
+				"displayTypeKey": "graph_type_vec2"
+			}
+		}
+	],
+	"inputs": [
+		{
+			"name": "Texture",
+			"shaderName": "Texture",
+			"description": "The texture to sample from",
+			"type": "Texture",
+			"providerType": "Texture2DProvider",
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_color_from_texture_input_texture",
+			"descriptionKey": "vfxgraph_set_color_from_texture_input_texture_description",
+			"displayType": "Texture2D",
+			"displayTypeKey": "graph_type_texture2d"
+		}
+	],
+	"outputs": [],
+	"category": "Attribute Set",
+	"description": "Sets the color of the particles based on texture sample data",
+	"version": "1.0.0",
+	"compatibleContexts": [
+		"Init",
+		"Update",
+		"Output",
+		"MeshOutput"
+	],
+	"attributes": [
+		"color",
+		"seed"
+	],
+	"optionalMethodBodies": [
+		{
+			"optionType": "Set Mode",
+			"optionValue": "Random",
+			"methodBody": "color = texture(Texture, vec2(Rand(seed), Rand(seed))).xyz;"
+		},
+		{
+			"optionType": "Set Mode",
+			"optionValue": "Custom",
+			"methodBody": "color = texture(Texture, uv).xyz;"
+		}
+	],
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"limitedDraggable": true,
+	"nameKey": "vfxgraph_set_color_from_texture_name",
+	"categoryKey": "vfxgraph_category_attributeset",
+	"descriptionKey": "vfxgraph_set_color_from_texture_description"
+}

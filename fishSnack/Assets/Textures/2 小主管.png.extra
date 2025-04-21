@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "0e1235e0-97dc-b81d-6394-2ec6d1aa12db",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "2 小主管",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\kenny\\Downloads\\drive-download-20250421T104957Z-001\\2 小主管.png"
+  }
+]

@@ -1,0 +1,41 @@
+%YAML 1.1
+--- !VFXBuffer &1
+name: !<str> Visual Effects Buffer
+guid: {a: 4970257709156508572, b: 13891381678067935414}
+dataType:
+  __class: VFXBufferDataType
+  value: INT
+bufferStructVec:
+  - __class: VFXBufferData
+    name: !<str> A6669727374426f73734850
+    guid: {a: 5281494599371274423, b: 13793392864845473153}
+    dataType:
+      __class: VFXBufferDataType
+      value: INT
+    defaultValues:
+      - 0
+  - __class: VFXBufferData
+    name: !<str> A7365636f6e64426f73734850
+    guid: {a: 4956232146578416004, b: 18216987520776246185}
+    dataType:
+      __class: VFXBufferDataType
+      value: INT
+    defaultValues:
+      - 0
+  - __class: VFXBufferData
+    name: !<str> A7468697264426f73734850
+    guid: {a: 5483210480917734427, b: 16121059633493427588}
+    dataType:
+      __class: VFXBufferDataType
+      value: INT
+    defaultValues:
+      - 0
+  - __class: VFXBufferData
+    name: !<str> A4c617374426f73734850
+    guid: {a: 4852981698282816070, b: 7619052268672202633}
+    dataType:
+      __class: VFXBufferDataType
+      value: INT
+    defaultValues:
+      - 0
+bufferSize: 1

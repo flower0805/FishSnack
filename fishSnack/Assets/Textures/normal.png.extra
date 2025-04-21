@@ -1,0 +1,28 @@
+[
+  {
+    "guid": {
+      "a": "0ed15b12-f66a-c773-6bab-4e6f60fd4ce2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "normal",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "Texture",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "resourceFilePath": "C:\\Users\\kenny\\Downloads\\normal.png"
+  }
+]

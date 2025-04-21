@@ -1,0 +1,15 @@
+[
+  {
+    "guid": {
+      "a": "94c5f8d8-6c71-02d3-04cd-8465212d1b5c",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Visual Effects Buffers",
+    "expandInPanel": true,
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "objGuid": ""
+  }
+]

@@ -1,0 +1,99 @@
+{
+	"id": "5bf340a9-24e8-4034-910e-5bcf35f26e27",
+	"name": "Add",
+	"category": "Math",
+	"function": "Add",
+	"NodeType": "VFXGRAPHOPERATOR",
+	"inputs": [
+		{
+			"name": "A",
+			"shaderName": "A",
+			"type": "Float",
+			"default": 1.0001,
+			"allowedTypes": [
+				"Color",
+				"Vector4f",
+				"Vector3f",
+				"Vector2f",
+				"Float",
+				"Int"
+			],
+			"isShowColor": false,
+			"targetType": "output",
+			"description": "The first value to be added",
+			"nameKey": "vfxgraph_add_input_a",
+			"descriptionKey": "vfxgraph_add_input_a_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		},
+		{
+			"name": "B",
+			"shaderName": "B",
+			"type": "Float",
+			"default": 1.0001,
+			"allowedTypes": [
+				"Color",
+				"Vector4f",
+				"Vector3f",
+				"Vector2f",
+				"Float",
+				"Int"
+			],
+			"isShowColor": false,
+			"targetType": "output",
+			"description": "The second value to be added",
+			"nameKey": "vfxgraph_add_input_b",
+			"descriptionKey": "vfxgraph_add_input_b_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Result",
+			"shaderName": "AddOutput",
+			"type": "Float",
+			"description": "The sum of A and B",
+			"nameKey": "vfxgraph_add_output_result",
+			"descriptionKey": "vfxgraph_add_output_result_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		}
+	],
+	"supportedInputs": [
+		{
+			"in": [
+				"genType",
+				"genType"
+			],
+			"out": [
+				"genType"
+			]
+		},
+		{
+			"in": [
+				"Int",
+				"Int"
+			],
+			"out": [
+				"Int"
+			]
+		}
+	],
+	"uniforms": [],
+	"parameters": [],
+	"invokeString": "%A% + %B%;",
+	"outputPortTypeUpdate": "HighestInput",
+	"externalVariables": [],
+	"description": "Calculate the sum of two input values",
+	"version": "1.0.0",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"nameKey": "vfxgraph_add_name",
+	"categoryKey": "vfxgraph_category_math",
+	"descriptionKey": "vfxgraph_add_description"
+}

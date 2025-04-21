@@ -1,0 +1,44 @@
+{
+	"name": "Set Alpha",
+	"function": "SetAlpha",
+	"id": "7d031351-46c6-d04b-fb74-07846d6e8bd2",
+	"NodeType": "VFXGRAPHBLOCK",
+	"inputs": [
+		{
+			"name": "Alpha",
+			"shaderName": "Alpha",
+			"description": "The opacity of the particles. Value can range from 0 (transparent) to 1 (opaque)",
+			"type": "Float",
+			"default": 0.0001,
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_alpha_input_alpha",
+			"descriptionKey": "vfxgraph_set_alpha_input_alpha_description",
+			"displayType": "Float",
+			"displayTypeKey": "graph_type_float"
+		}
+	],
+	"outputs": [],
+	"category": "Attribute Set",
+	"description": "Sets the alpha value or opacity of the particles",
+	"version": "1.0.0",
+	"compatibleContexts": [
+		"Init",
+		"Update",
+		"Output",
+		"MeshOutput"
+	],
+	"attributes": [
+		"alpha"
+	],
+	"methodBody": "alpha = Alpha;",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"limitedDraggable": true,
+	"nameKey": "vfxgraph_set_alpha_name",
+	"categoryKey": "vfxgraph_category_attributeset",
+	"descriptionKey": "vfxgraph_set_alpha_description"
+}

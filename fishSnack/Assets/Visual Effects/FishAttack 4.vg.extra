@@ -1,0 +1,39 @@
+[
+  {
+    "guid": {
+      "a": "164adec7-00d3-266c-48e1-fa58b582a263",
+      "b": ""
+    },
+    "extraType": "ResItemVFXGraph",
+    "name": "FishAttack 4",
+    "expandInPanel": false,
+    "objGuid": "",
+    "rttiType": "VFXProfile",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "resourceFilePath": "/Users/bytedance/Documents/source/tiktok_effectsdk/orion/build/Resources/BuiltinResource/InternalPlugins/VFXComponent/PluginResource/vg/Basic Particles.vg",
+    "references": [
+      {
+        "propertyName": "Texture_0_2",
+        "guid": "00000000-0000-0000-0000-000000000021"
+      },
+      {
+        "propertyName": "MainTexture",
+        "guid": "5878316c-229b-dc97-dc86-adf34e1b56e7"
+      },
+      {
+        "propertyName": "Curve",
+        "guid": "00000000-0000-0000-0000-000000000090"
+      },
+      {
+        "propertyName": "MainTexture_1",
+        "guid": "00000000-0000-0000-0000-00000000004g"
+      },
+      {
+        "propertyName": "TargetBuffer",
+        "guid": "c27a0f42-28bf-9dba-ac61-834fcc796e97"
+      }
+    ]
+  }
+]

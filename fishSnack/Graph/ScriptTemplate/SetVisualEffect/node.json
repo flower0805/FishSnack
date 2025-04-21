@@ -1,0 +1,90 @@
+{
+	"name": "Set Visual Effect",
+	"id": "e0b464f0-eaf1-4bd1-b4c6-a4083344a535",
+	"inputs": [
+		{
+			"name": "Enter",
+			"description": "The input that triggers this node",
+			"type": "Pulse",
+			"displayType": "Exec",
+			"nameKey": "graph_set_visual_effect_input_enter",
+			"descriptionKey": "graph_set_visual_effect_input_enter_description",
+			"displayTypeKey": "graph_type_exec"
+		},
+		{
+			"name": "Visual Effect",
+			"description": "The Visual Effect whose properties to set",
+			"type": "VFXProfile",
+			"displayType": "Visual Effect",
+			"nameKey": "graph_set_visual_effect_input_visualeffect",
+			"descriptionKey": "graph_set_visual_effect_input_visualeffect_description",
+			"displayTypeKey": "graph_type_visualeffect"
+		},
+		{
+			"name": "Uniform Name",
+			"description": "The name of the Uniform in the corresponding shader",
+			"type": "String",
+			"displayType": "String",
+			"nameKey": "graph_set_visual_effect_input_uniformname",
+			"descriptionKey": "graph_set_visual_effect_input_uniformname_description",
+			"displayTypeKey": "graph_type_string"
+		},
+		{
+			"name": "Spawn Uniform",
+			"description": "If the Uniform is set to the Spawn Rate node",
+			"default_value": false,
+			"type": "Bool",
+			"displayType": "Boolean",
+			"nameKey": "graph_set_visual_effect_input_spawnuniform",
+			"descriptionKey": "graph_set_visual_effect_input_spawnuniform_description",
+			"displayTypeKey": "graph_type_boolean"
+		},
+		{
+			"name": "Uniform",
+			"description": "The value of the specified Uniform type",
+			"type": "Texture",
+			"providerType": "Texture2DProvider",
+			"dynamic": true,
+			"displayType": "Texture",
+			"nameKey": "graph_set_visual_effect_input_uniform",
+			"descriptionKey": "graph_set_visual_effect_input_uniform_description",
+			"displayTypeKey": "graph_type_texture"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Next",
+			"description": "Execute the next node",
+			"type": "Pulse",
+			"displayType": "Exec",
+			"nameKey": "graph_set_visual_effect_output_next",
+			"descriptionKey": "graph_set_visual_effect_output_next_description",
+			"displayTypeKey": "graph_type_exec"
+		}
+	],
+	"supportedValueTypes": [
+		"Texture",
+		"Double",
+		"Bool",
+		"Vector2f",
+		"Vector3f",
+		"Vector4f",
+		"Color"
+	],
+	"nodeEvent": [
+		"beforeStart"
+	],
+	"category": "Utility",
+	"version": "1.0.0",
+	"description": "Sets the properties of the specified Visual Effect",
+	"onlineWebsite": "graph_set_vfx_graph_website",
+	"productTypes": [
+		"EHI",
+		"EHO",
+		"EHD"
+	],
+	"js": "CGSetVisualEffect.js",
+	"nameKey": "graph_set_visual_effect_name",
+	"categoryKey": "graph_category_utility",
+	"descriptionKey": "graph_set_visual_effect_description"
+}
