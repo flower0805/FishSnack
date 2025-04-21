@@ -1,12 +1,12 @@
 {
-	"name": "Set Random Velocity",
+	"displayName": "Set Random Velocity",
 	"function": "SetRandomVelocity",
-	"id": "0942421e-7e19-2b64-33e1-09b6d206a56e",
+	"templateGuid": "0942421e-7e19-2b64-33e1-09b6d206a56e",
 	"NodeType": "VFXGRAPHBLOCK",
 	"inputs": [
 		{
+			"displayName": "Min",
 			"name": "Min",
-			"shaderName": "Min",
 			"description": "The minimum velocity of the particles",
 			"type": "Vec3",
 			"default": {
@@ -16,13 +16,11 @@
 			},
 			"allowedTypes": [],
 			"nameKey": "vfxgraph_set_random_velocity_input_min",
-			"descriptionKey": "vfxgraph_set_random_velocity_input_min_description",
-			"displayType": "Vec3",
-			"displayTypeKey": "graph_type_vec3"
+			"descriptionKey": "vfxgraph_set_random_velocity_input_min_description"
 		},
 		{
+			"displayName": "Max",
 			"name": "Max",
-			"shaderName": "Max",
 			"description": "The maxium velocity of the particles",
 			"type": "Vec3",
 			"default": {
@@ -32,9 +30,7 @@
 			},
 			"allowedTypes": [],
 			"nameKey": "vfxgraph_set_random_velocity_input_max",
-			"descriptionKey": "vfxgraph_set_random_velocity_input_max_description",
-			"displayType": "Vec3",
-			"displayTypeKey": "graph_type_vec3"
+			"descriptionKey": "vfxgraph_set_random_velocity_input_max_description"
 		}
 	],
 	"outputs": [],
@@ -44,9 +40,7 @@
 	"compatibleContexts": [
 		"Init",
 		"Update",
-		"Output",
-		"MeshOutput",
-		"PhysicsInit"
+		"Output"
 	],
 	"attributes": [
 		"velocity",

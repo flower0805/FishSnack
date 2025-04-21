@@ -1,7 +1,7 @@
 [
   {
     "guid": {
-      "a": "437cd5e7-e79a-013c-9d2c-46177d9d7134",
+      "a": "e37346e0-8b0b-c45e-1b7f-7c042b27b763",
       "b": ""
     },
     "objGuid": "Guid(4817707944327986858, 11083804968628984459)",
@@ -19,7 +19,7 @@
   },
   {
     "guid": {
-      "a": "097882d5-80a2-4ba8-315c-0d9aeb9c03af",
+      "a": "bf288d74-9da8-7f25-8bcc-3cd1e4dcce01",
       "b": ""
     },
     "objGuid": "Guid(4963187625258091299, 17736031608334853289)",
@@ -40,7 +40,7 @@
   },
   {
     "guid": {
-      "a": "c2d8f59f-bdd1-18fc-d3d1-0c9a1e8ba8d1",
+      "a": "9c6d98e1-2110-c5ce-3d1a-6f95e47de4b7",
       "b": ""
     },
     "objGuid": "Guid(5016530024846943953, 15000191865371467183)",
@@ -57,7 +57,7 @@
   },
   {
     "guid": {
-      "a": "1de6354e-5097-1b48-9f08-86eea6eb7177",
+      "a": "ab3a590e-8859-58f8-791c-9e22e8ba6fab",
       "b": ""
     },
     "objGuid": "Guid(4918448726052207623, 8609260138396483212)",
@@ -75,7 +75,7 @@
   },
   {
     "guid": {
-      "a": "3ac589a6-9eed-86a0-734b-eec451b6bed3",
+      "a": "ad5c99ee-5de2-cbcd-7597-ad85f1b7e09f",
       "b": ""
     },
     "objGuid": "Guid(5215215347985482463, 1198017982326078395)",
@@ -96,7 +96,7 @@
   },
   {
     "guid": {
-      "a": "8efec4ff-1c91-279f-15f3-15dd9a483aab",
+      "a": "7d73f620-4001-da59-8f0e-35b99af37fa2",
       "b": ""
     },
     "objGuid": "Guid(5313238777116197559, 12046676078653549698)",
@@ -117,7 +117,7 @@
   },
   {
     "guid": {
-      "a": "b8964416-fa21-6f77-dcdd-465631054fbe",
+      "a": "95240707-c439-edde-d38e-45323e6d6bdc",
       "b": ""
     },
     "objGuid": "Guid(5558260501764085372, 17812155448406428838)",
@@ -135,7 +135,7 @@
   },
   {
     "guid": {
-      "a": "5502d80e-e0ae-403a-abc9-d03c02184a73",
+      "a": "c29ae7d8-89be-a81e-46f1-b04659f9af48",
       "b": ""
     },
     "objGuid": "Guid(4737104314393977034, 6009144872990311304)",
@@ -155,7 +155,7 @@
   },
   {
     "guid": {
-      "a": "3170aaf1-b681-a404-f9bb-c20924309a43",
+      "a": "38dec706-6099-6061-f6d0-2f58eedb7d6f",
       "b": ""
     },
     "objGuid": "Guid(5496348224248136056, 9114194062335360395)",
@@ -182,7 +182,7 @@
   },
   {
     "guid": {
-      "a": "501b25a5-de06-d62b-02f6-b6c888e10e23",
+      "a": "cf0ccea9-d642-fcb7-ac66-627a4684013d",
       "b": ""
     },
     "objGuid": "Guid(5512938041458238990, 1948584227840854167)",
@@ -200,7 +200,7 @@
   },
   {
     "guid": {
-      "a": "dac9a6b3-2ca5-d9ee-6735-c45da215998a",
+      "a": "f578bed5-ad21-6c5a-e91c-8ace191390c2",
       "b": ""
     },
     "objGuid": "Guid(4803222071653436698, 6878698253366665615)",
@@ -220,7 +220,7 @@
   },
   {
     "guid": {
-      "a": "a02b38ca-efba-7966-7c8d-d887b58822cb",
+      "a": "e5f0bbee-bd65-1a10-833b-62cdd3a6dd84",
       "b": ""
     },
     "objGuid": "Guid(4653059765232121430, 5389659294313639312)",
@@ -247,7 +247,7 @@
   },
   {
     "guid": {
-      "a": "4848ed5f-b8ad-10d6-c751-136ea1763016",
+      "a": "5bb7d14d-9fb3-3885-8c7b-f1dc5a0a81da",
       "b": ""
     },
     "objGuid": "Guid(5683768309273628303, 1415683305408667280)",
@@ -265,7 +265,7 @@
   },
   {
     "guid": {
-      "a": "244333cf-8800-8086-dd72-a484fa4bd7b8",
+      "a": "94c03693-84f9-7623-8cae-83c6e8fb2ee0",
       "b": ""
     },
     "objGuid": "Guid(5113950769983676779, 12883528992490754451)",
@@ -285,7 +285,7 @@
   },
   {
     "guid": {
-      "a": "50c34a6f-4618-70a3-47f8-dc098c5481cf",
+      "a": "f5c6c2cf-8d83-d784-f22a-12d64ec04c19",
       "b": ""
     },
     "objGuid": "Guid(5074720355358421370, 10196862451067739273)",
@@ -312,7 +312,7 @@
   },
   {
     "guid": {
-      "a": "72821044-0a9b-c75c-8285-bd1ea0bc9684",
+      "a": "8c719383-4642-be00-ee98-a4a35fea6d9e",
       "b": ""
     },
     "objGuid": "Guid(5440325003176681577, 17855697339144482436)",
@@ -330,7 +330,7 @@
   },
   {
     "guid": {
-      "a": "bfa6cd03-2c5d-7afc-2904-39f6dd9892ac",
+      "a": "d7abd568-414f-5901-b7a7-1521e60133ba",
       "b": ""
     },
     "objGuid": "Guid(5064282151753572955, 6293211572029639554)",
@@ -350,7 +350,7 @@
   },
   {
     "guid": {
-      "a": "3ce6eb7b-f283-0062-e7d4-06a3726c0c86",
+      "a": "d3a11c2c-bcec-d3ac-474e-42f407e30808",
       "b": ""
     },
     "objGuid": "Guid(5002641157456985344, 13786906473592004504)",
@@ -377,12 +377,12 @@
   },
   {
     "guid": {
-      "a": "c54db6be-629a-eb01-dc4a-2aa73e2bca61",
+      "a": "2fb3b2d1-6a27-0e72-168a-c55c3d7a1a48",
       "b": ""
     },
     "objGuid": "Guid(4659489634643852961, 12357221869103918981)",
     "extraType": "Entity",
-    "name": "Screen Image",
+    "name": "bossFall (1)",
     "rttiType": "SceneObject",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -395,7 +395,7 @@
   },
   {
     "guid": {
-      "a": "50eece13-d298-31da-c5bd-1b5f2ad676fb",
+      "a": "c2de1472-7693-00c4-8927-5893c4325e09",
       "b": ""
     },
     "objGuid": "Guid(4686638345040370152, 4003103575432526738)",
@@ -415,7 +415,7 @@
   },
   {
     "guid": {
-      "a": "422566b5-39ee-bb8e-bb1d-fa9ff9a427f1",
+      "a": "b39f80d9-e03f-28e1-5f06-38155c525025",
       "b": ""
     },
     "objGuid": "Guid(4673184699695350159, 5477028733702178177)",
@@ -434,6 +434,1313 @@
     "segSoftness": 0.5,
     "blendMode": "Normal",
     "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "19976c86-fd59-d3ef-032c-e31100dfd2e9",
+      "b": ""
+    },
+    "objGuid": "Guid(5477279762021211043, 5050494528995071645)",
+    "extraType": "BoxCollider2D",
+    "name": "Box Collider 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "75674cbd-fde5-e794-d930-1caa29d84b02",
+      "b": ""
+    },
+    "objGuid": "Guid(5075963216678726142, 9349991937138587055)",
+    "extraType": "RigidBody2D",
+    "name": "Rigid Body 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "6d7a8aae-e894-e46e-4320-c77b2748c3b6",
+      "b": ""
+    },
+    "objGuid": "Guid(4637945156675405884, 8050393401200830339)",
+    "extraType": "Entity",
+    "name": "greyBlood",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "bb2aa67c-972e-3085-af97-b533b4cc7eb1",
+      "b": ""
+    },
+    "objGuid": "Guid(5705181411673518473, 5863069820978500490)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "42f3bcad-7278-b43d-ffb0-fbf5fdaef521",
+      "b": ""
+    },
+    "objGuid": "Guid(4655086715587004211, 8067947208916897158)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "02f6ecda-7098-b3aa-ea0d-b2e04c31e444",
+      "b": ""
+    },
+    "objGuid": "Guid(5733307257612077830, 9442878286541190835)",
+    "extraType": "Entity",
+    "name": "greenblood",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "bb93a169-4b1b-3d19-f82a-698d963b12e9",
+      "b": ""
+    },
+    "objGuid": "Guid(4921077928671850436, 8033898659881051578)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "74c429f0-8e20-6335-6c98-bea2789e3b2a",
+      "b": ""
+    },
+    "objGuid": "Guid(4848500143326575440, 15571952562340339350)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Filled",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "edddfbfd-62b0-fda3-7779-5d8aa6a9cf5c",
+      "b": ""
+    },
+    "objGuid": "Guid(5136608448510774655, 320501708831965104)",
+    "extraType": "Entity",
+    "name": "bossFall (2)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "9b43a195-af91-40a5-01b4-80e274f8f452",
+      "b": ""
+    },
+    "objGuid": "Guid(4955985360555516746, 8808376910456688520)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "13a3b542-bf3f-75b0-3ee3-b602a376266c",
+      "b": ""
+    },
+    "objGuid": "Guid(5003706480750106996, 12738613060202906782)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "9eebb014-556c-2e51-8e49-9926c4d8ac72",
+      "b": ""
+    },
+    "objGuid": "Guid(5358003554768776689, 16794024164478615195)",
+    "extraType": "BoxCollider2D",
+    "name": "Box Collider 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "b4760d9a-a5a4-90a1-b78c-6d7393f1d183",
+      "b": ""
+    },
+    "objGuid": "Guid(5695376877407646642, 2847211782638074015)",
+    "extraType": "RigidBody2D",
+    "name": "Rigid Body 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "010e4730-a59a-2c2f-5d05-22e55ddfc716",
+      "b": ""
+    },
+    "objGuid": "Guid(4779845097045423897, 8748957033817939624)",
+    "extraType": "Entity",
+    "name": "bossFall (3)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "1017009d-352a-7b76-54f0-f1e8888a0165",
+      "b": ""
+    },
+    "objGuid": "Guid(4882160376561464013, 63731975715045792)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "306d2bda-957a-391a-84b4-7dbfebe763f0",
+      "b": ""
+    },
+    "objGuid": "Guid(5265088076335757732, 14260861821285525147)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "0f2438b7-1481-f12b-539a-7a3714b4b63f",
+      "b": ""
+    },
+    "objGuid": "Guid(5702601906505051964, 3153748313872873628)",
+    "extraType": "BoxCollider2D",
+    "name": "Box Collider 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "071df7f1-eb07-c089-7d80-7e3af58075ba",
+      "b": ""
+    },
+    "objGuid": "Guid(4672121237355326669, 15979157370323722687)",
+    "extraType": "RigidBody2D",
+    "name": "Rigid Body 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "b025ecb6-c132-3de7-7099-c534759bda43",
+      "b": ""
+    },
+    "objGuid": "Guid(4856357155554765971, 16121295599409497742)",
+    "extraType": "Entity",
+    "name": "bossFall (4)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "b3d9d81f-251d-86fc-8489-95eaad1cdcf1",
+      "b": ""
+    },
+    "objGuid": "Guid(5403789611893080386, 16743749822352699323)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "6962d706-1aa4-fa63-f45a-fc089af417de",
+      "b": ""
+    },
+    "objGuid": "Guid(4948320466994515869, 4106296357662198975)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "71a335ed-1df6-2a3a-ce8d-af43386005bb",
+      "b": ""
+    },
+    "objGuid": "Guid(5136878807670787094, 402780933595480763)",
+    "extraType": "BoxCollider2D",
+    "name": "Box Collider 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "979fefc0-6614-c693-a014-94e1b8de4b07",
+      "b": ""
+    },
+    "objGuid": "Guid(4763309896378857050, 9595682093271182990)",
+    "extraType": "RigidBody2D",
+    "name": "Rigid Body 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "e40c23f6-a483-d201-787f-babff1956ca0",
+      "b": ""
+    },
+    "objGuid": "Guid(5756046108929127076, 204173287845180584)",
+    "extraType": "Entity",
+    "name": "fishAttack (1)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "de634a5c-0439-84ec-2398-20645ccfea9e",
+      "b": ""
+    },
+    "objGuid": "Guid(5348025791051800320, 2160757092855314053)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "ae4730dd-fe3b-14c1-5e7f-ded747647cc8",
+      "b": ""
+    },
+    "objGuid": "Guid(5301792776799222170, 13944817732437188499)",
+    "extraType": "VFXEffectBlock",
+    "name": "Visual Effects",
+    "rttiType": "VFXEffectBlock",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "ec2db349-c889-4ac3-62de-190f10bcd0a4",
+      "b": ""
+    },
+    "objGuid": "Guid(5481092921773071620, 1364329967376267694)",
+    "extraType": "VFXEffectBlockController",
+    "name": "VFXEffectController",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c9dd2d91-1f0f-ee34-c717-e1bd8320bc7e",
+      "b": ""
+    },
+    "objGuid": "Guid(5290562358038076642, 9669091147748727735)",
+    "extraType": "Entity",
+    "name": "fishAttack (2)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "f42f54f3-4537-084a-2224-4c240ee47cdb",
+      "b": ""
+    },
+    "objGuid": "Guid(4987220696067677821, 13099458183290966674)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "130df9e3-358e-b682-322e-201da2cc3f6d",
+      "b": ""
+    },
+    "objGuid": "Guid(4739436366906271671, 18106325790174923142)",
+    "extraType": "VFXEffectBlock",
+    "name": "Visual Effects",
+    "rttiType": "VFXEffectBlock",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "c4774595-1346-3fcd-fcda-b03bdcb71770",
+      "b": ""
+    },
+    "objGuid": "Guid(5503337829458373178, 10557761758469683075)",
+    "extraType": "VFXEffectBlockController",
+    "name": "VFXEffectController",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "23deacea-c8c4-7f8e-e513-2870ca043d03",
+      "b": ""
+    },
+    "objGuid": "Guid(5422117716272999192, 12737039171349450684)",
+    "extraType": "Entity",
+    "name": "fishAttack (3)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "5b8df2f3-9255-dd2f-3235-232788564c17",
+      "b": ""
+    },
+    "objGuid": "Guid(5394837946728486305, 14784840561820894366)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "20a0b2ee-03a5-fd50-da6b-11e86d346929",
+      "b": ""
+    },
+    "objGuid": "Guid(4982920189801940740, 15387150591360510601)",
+    "extraType": "VFXEffectBlock",
+    "name": "Visual Effects",
+    "rttiType": "VFXEffectBlock",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "05bcdd51-b374-617b-c673-50e5ba0c982f",
+      "b": ""
+    },
+    "objGuid": "Guid(4739413501848355919, 11818809080107417475)",
+    "extraType": "VFXEffectBlockController",
+    "name": "VFXEffectController",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "e6dd41ce-6248-b17f-69e0-c7b6a419ba06",
+      "b": ""
+    },
+    "objGuid": "Guid(5071076478013770346, 3164214539457850789)",
+    "extraType": "Entity",
+    "name": "fishAttack (4)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "a5644ed7-5b2e-fa48-99ba-a02f41052ec0",
+      "b": ""
+    },
+    "objGuid": "Guid(5507505435692862586, 10856953396380088451)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "bae5415b-7fcb-622d-fff3-c93f95957dcb",
+      "b": ""
+    },
+    "objGuid": "Guid(4868458234779183574, 17664970503143329978)",
+    "extraType": "VFXEffectBlock",
+    "name": "Visual Effects",
+    "rttiType": "VFXEffectBlock",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "edca52d9-7dc3-146d-352d-d2f0bf38b75d",
+      "b": ""
+    },
+    "objGuid": "Guid(4982873815562412941, 10702468488366681783)",
+    "extraType": "VFXEffectBlockController",
+    "name": "VFXEffectController",
+    "rttiType": "JSScriptComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": false,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "596512b1-e05b-589f-960b-8d51bae78d9a",
+      "b": ""
+    },
+    "objGuid": "Guid(5709135573876332966, 5142833751770597563)",
+    "extraType": "Entity",
+    "name": "fishPackage",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "c7c85a42-0339-2321-4769-c8e37fe28ba1",
+      "b": ""
+    },
+    "objGuid": "Guid(5429450629562026416, 13039163312575768479)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "504b0bda-8d45-1fe1-3119-45a5676a1d27",
+      "b": ""
+    },
+    "objGuid": "Guid(4723209956048574941, 14999573189024285084)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "5bc6b652-ed77-4347-19d5-8eb0d48e2bfd",
+      "b": ""
+    },
+    "objGuid": "Guid(5161952713444688184, 8142449866647034288)",
+    "extraType": "Entity",
+    "name": "General",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": ""
+  },
+  {
+    "guid": {
+      "a": "aba40209-fffc-84c9-6c6c-8c3ecb3dfc95",
+      "b": ""
+    },
+    "objGuid": "Guid(5419406341474566665, 260987898195715202)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "2f1ff18f-a639-1515-5571-ea960c65fd05",
+      "b": ""
+    },
+    "objGuid": "Guid(5339439924914425013, 2099359755348141751)",
+    "extraType": "EffectNode",
+    "name": "Render Group",
+    "rttiType": "EffectNode",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "type": 5,
+    "sortMethod": 2
+  },
+  {
+    "guid": {
+      "a": "8076faed-1962-e78a-1956-7144cab5dd2d",
+      "b": ""
+    },
+    "objGuid": "Guid(4688374681371077602, 9219338035058589856)",
+    "extraType": "Entity",
+    "name": "winLoseCamera",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_utility"
+  },
+  {
+    "guid": {
+      "a": "3ee9bec4-c726-1d6c-b599-874185538d57",
+      "b": ""
+    },
+    "objGuid": "Guid(4950661218411514328, 6785044656341505691)",
+    "extraType": "Transform",
+    "name": "Transform",
+    "rttiType": "Transform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "linkage": 0
+  },
+  {
+    "guid": {
+      "a": "b620f3ba-5248-da9a-55ae-549f1589a666",
+      "b": ""
+    },
+    "objGuid": "Guid(5556660111634661228, 14445231336324664464)",
+    "extraType": "Camera",
+    "name": "Camera",
+    "rttiType": "Camera",
+    "version": "0.4.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "enableMask": false,
+    "maskTexture": "00000000-0000-0000-0000-000000000802",
+    "physicalFovy": true,
+    "fov": 60,
+    "cachedInputTexture": "00000000-0000-0000-0000-00000000004b",
+    "isAnimatorBound": false
+  },
+  {
+    "guid": {
+      "a": "8279791d-a31d-7d33-ef55-31e0a22f1631",
+      "b": ""
+    },
+    "objGuid": "Guid(5680920733104233367, 8218823459426367128)",
+    "extraType": "BoxCollider2D",
+    "name": "Box Collider 2D",
+    "rttiType": "JSScriptComponent",
+    "version": "0.2.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "53443268-7082-d68e-77dc-782400dcbd5a",
+      "b": ""
+    },
+    "objGuid": "Guid(5293850662568807668, 17609991674860625075)",
+    "extraType": "Entity",
+    "name": "greyBlood (1)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "28e78c08-51ed-d2b1-d792-c8174942deaa",
+      "b": ""
+    },
+    "objGuid": "Guid(4624721423062933839, 14247890278870874262)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "87949789-f730-4177-a2a7-28dbdf123a4a",
+      "b": ""
+    },
+    "objGuid": "Guid(4682720823466092533, 14669476234206301874)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "b3459201-801b-1244-8e44-721a9e4d8cb7",
+      "b": ""
+    },
+    "objGuid": "Guid(5061656285145713612, 4608472852038677388)",
+    "extraType": "Entity",
+    "name": "greenblood (1)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "7c5dfb65-1b13-ca1d-ce4a-9a5c8f07c7e0",
+      "b": ""
+    },
+    "objGuid": "Guid(4888640224161581843, 2294767999384317091)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "3aba2b89-d7b1-ae83-0e98-b5eb79e27273",
+      "b": ""
+    },
+    "objGuid": "Guid(5360378463240374894, 8426530003461181596)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Filled",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "b06130c3-9770-148f-4455-65383c842418",
+      "b": ""
+    },
+    "objGuid": "Guid(5236623945708458761, 2873836210834922173)",
+    "extraType": "Entity",
+    "name": "greyBlood (2)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "67f9524f-a6d8-dbe4-a563-510c2dfcf31f",
+      "b": ""
+    },
+    "objGuid": "Guid(5353856464101178301, 9539883765360726195)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "8ad4e951-8791-e2cd-8daf-dac762cf721f",
+      "b": ""
+    },
+    "objGuid": "Guid(5174367614936468052, 5998964484283905170)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "4dfeaf38-1398-a0e9-a888-a73face3900b",
+      "b": ""
+    },
+    "objGuid": "Guid(5723993687443290005, 2094194537812277911)",
+    "extraType": "Entity",
+    "name": "greenblood (2)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "fe7947ba-e648-ddb6-437a-ced964bc7185",
+      "b": ""
+    },
+    "objGuid": "Guid(5105845088557561814, 6237273672082970029)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "13ec0d96-cef9-0f8a-3114-5325fdf36692",
+      "b": ""
+    },
+    "objGuid": "Guid(5027451189555852679, 16693913039100578448)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Filled",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "b9c5accd-2ce9-16db-1bcc-551e386f151c",
+      "b": ""
+    },
+    "objGuid": "Guid(5021774650821471510, 11093720544047930281)",
+    "extraType": "Entity",
+    "name": "greyBlood (3)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "ae07c64a-2bed-c05b-3d81-46479ed1faae",
+      "b": ""
+    },
+    "objGuid": "Guid(5424331133728483148, 12398498009241560981)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "7beabb50-de4d-bfab-fac3-493a6267bbc0",
+      "b": ""
+    },
+    "objGuid": "Guid(5258399855784094186, 7147260154810670516)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Normal",
+    "filledType": 0,
+    "startPoint": 0,
+    "filledRange": 1,
+    "ellipseX": 1,
+    "ellipseY": 1
+  },
+  {
+    "guid": {
+      "a": "c38e0601-58dc-8b56-75b5-ed970f53b3fe",
+      "b": ""
+    },
+    "objGuid": "Guid(4898578738821181762, 16353239158610294168)",
+    "extraType": "Entity",
+    "name": "greenblood (3)",
+    "rttiType": "SceneObject",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none",
+    "isAnimatorBound": false,
+    "modelGUID": "",
+    "createdEffectNodeKey": "effect_node_2D_foreground"
+  },
+  {
+    "guid": {
+      "a": "8d55755a-6cbd-6226-0962-a3784eafb600",
+      "b": ""
+    },
+    "objGuid": "Guid(5153559417202167711, 4556256065453910144)",
+    "extraType": "ScreenTransform",
+    "name": "Screen Transform",
+    "rttiType": "ScreenTransform",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "linkageSize": 0,
+    "horizontalConstraint": 2,
+    "verticalConstraint": 2,
+    "linkageScale": 0,
+    "inspectorUICtx": "{}"
+  },
+  {
+    "guid": {
+      "a": "09466b74-1e8f-ca71-d5ef-351510431fbf",
+      "b": ""
+    },
+    "objGuid": "Guid(5198172304232959846, 6116012061050213035)",
+    "extraType": "Image",
+    "name": "Image",
+    "rttiType": "ImageRenderer",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "editable": true,
+    "alphaNOPM": true,
+    "sharedMaterial": "00000000-0000-0000-0000-000000000132",
+    "segBlendMode": "Normal_v2",
+    "segRadius": 0.5,
+    "segSoftness": 0.5,
+    "blendMode": "Normal",
+    "drawMode": "Filled",
     "filledType": 0,
     "startPoint": 0,
     "filledRange": 1,
