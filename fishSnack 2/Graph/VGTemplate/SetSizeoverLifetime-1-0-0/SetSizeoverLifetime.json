@@ -1,0 +1,46 @@
+{
+	"name": "Set Size Over Lifetime",
+	"function": "SetSizeoverLifetime",
+	"id": "27434503-a561-fd30-572c-d82246a2ca2d",
+	"NodeType": "VFXGRAPHBLOCK",
+	"inputs": [
+		{
+			"name": "Curve",
+			"shaderName": "Curve",
+			"description": "The texture to sample from to calculate the particles' relative age",
+			"type": "Texture",
+			"providerType": "Texture2DProvider",
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_size_over_lifetime_input_curve",
+			"descriptionKey": "vfxgraph_set_size_over_lifetime_input_curve_description",
+			"displayType": "Texture2D",
+			"displayTypeKey": "graph_type_texture2d"
+		}
+	],
+	"outputs": [],
+	"category": "Attribute Set",
+	"description": "Sets the size of the particles based on their relative age (age over lifetime value)",
+	"version": "1.0.0",
+	"compatibleContexts": [
+		"Init",
+		"Update",
+		"Output",
+		"MeshOutput"
+	],
+	"attributes": [
+		"size",
+		"age",
+		"lifetime"
+	],
+	"methodBody": "float t =  texture(Curve, vec2(age / lifetime, 0.5)).r;\nsize.x = t;\nsize.y = t;\nsize.z = t;",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"limitedDraggable": true,
+	"nameKey": "vfxgraph_set_size_over_lifetime_name",
+	"categoryKey": "vfxgraph_category_attributeset",
+	"descriptionKey": "vfxgraph_set_size_over_lifetime_description"
+}

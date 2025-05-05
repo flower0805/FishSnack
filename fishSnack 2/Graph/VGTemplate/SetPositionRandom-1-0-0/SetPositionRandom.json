@@ -1,0 +1,63 @@
+{
+	"name": "Set Random Position",
+	"function": "SetRandomPosition",
+	"id": "fd46a4b4-56da-0616-e223-c9abffda6d2c",
+	"NodeType": "VFXGRAPHBLOCK",
+	"inputs": [
+		{
+			"name": "Min",
+			"shaderName": "Min",
+			"description": "The minimum value",
+			"type": "Vec3",
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_random_position_input_min",
+			"descriptionKey": "vfxgraph_set_random_position_input_min_description",
+			"displayType": "Vec3",
+			"displayTypeKey": "graph_type_vec3"
+		},
+		{
+			"name": "Max",
+			"shaderName": "Max",
+			"description": "The maximum value",
+			"type": "Vec3",
+			"default": {
+				"x": 5,
+				"y": 5,
+				"z": 5
+			},
+			"allowedTypes": [],
+			"nameKey": "vfxgraph_set_random_position_input_max",
+			"descriptionKey": "vfxgraph_set_random_position_input_max_description",
+			"displayType": "Vec3",
+			"displayTypeKey": "graph_type_vec3"
+		}
+	],
+	"outputs": [],
+	"category": "Attribute Set",
+	"description": "Set a random origin position for the particles within a specified minimum and maximum values",
+	"version": "1.0.0",
+	"compatibleContexts": [
+		"Init",
+		"PhysicsInit",
+		"Update",
+		"Output",
+		"MeshOutput"
+	],
+	"attributes": [
+		"position",
+		"seed"
+	],
+	"methodBody": "position.xyz = random3(seed, Min.xyz, Max.xyz);",
+	"TSPATH": "",
+	"productTypes": [
+		"EHO",
+		"EHD",
+		"EHI"
+	],
+	"prevAliases": [
+		"SetRandomPosition"
+	],
+	"nameKey": "vfxgraph_set_random_position_name",
+	"categoryKey": "vfxgraph_category_attributeset",
+	"descriptionKey": "vfxgraph_set_random_position_description"
+}
